@@ -20,57 +20,30 @@ import Sidebar from "../components/Sidebar.vue";
         dan Ketaqwaan”
       </p>
       <p class="text-lg font-semibold">Misi</p>
+    <p> Melakukan Reformasi Sistem Kinerja aparatur Pemerintah Desa guna
+        peningkatan pelayanan kepada masyarakat </p>
       <ul>
         <li>
-          1. Mengembangkan system Pemerintahan Desa yang bersih dan profesional
-          serta berorientasi pada pelayanan publik dengan prinsif kerja ikhlas,
-          lakukan sekarang dan siap turun ke lapangan;
+          1. Menyelenggarakan  Pemerintahan Desa yang bersi,
+          terbebas dari korupsi serta bentuk penyelewengan lainnya;
         </li>
         <li>
-          2. Meningkatkan dan memantapkan system perencanaan pembangunan desa
-          melalui pengoptimalan mekanisme musyawarah pembangunan desa dengan
-          melibatkan seluruh steackholder yang ada;
+          2. Meningkatkan perekonomian masyarakat melalui pendampingan 
+          berupa penyuluhan khusus kepada UMKM,wiraswasta dan petani;
         </li>
         <li>
-          3. Membuat skala prioritas untuk kegiatan-kegiatan pembangunan yang
-          akan dilaksanakan baik pembangunan fisik atau non fisik, seperti
-          infrastruktur, perekonomian, keagamaan, Pendidikan dan kesehatan;
+          3. Meningkatkan prekonomian masyarakat untuk mencapai taraf kehidupan 
+          yang lebih baik dan layak sehingga menjadi desa yang maju dan mandiri
         </li>
         <li>
-          4. Meningkatkan kemampuan dan peran serta aktif masyarakat dalam
-          mengelola pembangunan berkelanjutan secara efisisen dan efektif dengan
-          memanfaatkan potensi sumber daya yang ada, baik sumber daya alam
-          maupun sumberdaya manusia;
+          4. Meningkatkan prekonomian masyarakat untuk mencapai 
+          taraf kehidupan yang lebih baik dan layak sehingga menjadi desa yang maju dan mandiri;
         </li>
         <li>
-          5. Meningkatkan kemampuan dan pemberdayaan Lembaga-lembaga
-          kemasyarakatan yang ada didesa atau lebih mendinamisasi dan mendukung
-          seluruh proses pembangunan;
+          5. Meningkatkan Kembali sarana olah raga,bola volley,bulutangkis dan lainnya;
         </li>
         <li>
-          6. Mendorong majunya Pendidikan formal maupun nonformal seperti
-          pesantren, LPK, diklat serta penyuluhan pertanian yang mudah diakses
-          dan dinikmati seluruh warga masyarakat, guna menghasilkan insan
-          intelektual, berakhlak mulia, inovatif dan entrepreneur;
-        </li>
-        <li>
-          7. Menyalurkan segala bentuk bantuan dari Pemerintah Kabupaten,
-          Provinsi dan Pusat sesuai dengan peruntukannya dan mencegah terjadinya
-          penyimpangan dan kebocoran;
-        </li>
-        <li>
-          8. Menjalin sinergitas dengan instansi atau Lembaga terkait dan pihak
-          swasta guna optimalisasi suatu tujuan lebih baik dan lebih maksimal;
-        </li>
-        <li>
-          9. Responsive dan aspiratif atas segala bentuk kebutuhan atau
-          keinginan dan permasalahan yang terjadi ditengah masyarakat yang
-          majemuk dan dinamis;
-        </li>
-        <li>
-          10. Membina dan memantapkankehidupan gotong royongsebagai basis dan
-          modal dasar pembangunan desa, yang pada hakikatnyajuga merupakan
-          karakter dasar dari masyarakat desa dan juga bangsa Indonesia.
+          6. Penggalian potensi untuk program desa wisata guna meningkatkan perekonomian masyarakat
         </li>
       </ul>
     </div>
